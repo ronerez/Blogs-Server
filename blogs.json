@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Beauty of Minimalist Design",
+    "thumbnailUrl": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "contentUrl": "https://images.pexels.com/photos/5546888/pexels-photo-5546888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "content": "Minimalist design is about removing the unnecessary and focusing on what truly matters. It emphasizes simplicity, clarity, and the use of white space to create a clean and focused user experience. In both visual and UX design, minimalism helps reduce cognitive load and makes content more accessible."
+  },
+  {
+    "title": "SwiftUI: A New Era in UI Development",
+    "thumbnailUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/00E4BA9F-2967-41D8-9F3A-29DF9381F05C/2048.jpeg",
+    "contentUrl": "https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png",
+    "content": "SwiftUI is Apple's modern UI framework that allows developers to build beautiful apps faster with declarative syntax. From live previews to seamless integration with Combine, SwiftUI is a major leap in productivity and simplicity for iOS development."
+  },
+  {
+    "title": "Exploring Nature Through Photography",
+    "thumbnailUrl": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "contentUrl": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg",
+    "content": "Nature photography captures the beauty and complexity of the world around us. From serene landscapes to intimate macro shots, photographers use their lens to tell stories that inspire appreciation and action for our planet."
+  }
+]
